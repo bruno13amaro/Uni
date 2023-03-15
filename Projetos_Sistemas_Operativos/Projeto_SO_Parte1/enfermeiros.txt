@@ -1,0 +1,9 @@
+99437:Bruno Amaro:CSLisboa:0:1
+99438:Mário Amaro:CSAlentejo:0:1
+99586:Nuno Pedro:CSPorto:0:1
+99500:Ana Lucia:CSFaro:0:1
+99501:Manuel:CSCoimbra:0:0
+99876:Manel Quinaz:CSAmadora:0:0
+89897:Bruno Correia:CSReboleira:0:1
+23455::CSLIsboa:0:3
+75867:Joao Fonseca:CSMilua:0:1

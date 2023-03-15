@@ -1,0 +1,7 @@
+Bruno Amaro:99437:Joao Silva:1001:CSLisboa:2021-03-19
+Bruno Amaro:99437:Joana Dias:1005:CSLisboa:2021-03-19
+Bruno Amaro:99437:Francisco Pedro:1014:CSLisboa:2021-03-19
+Nuno Pedro:99586:Joaquim Pedroso:1003:CSPorto:2021-03-19
+Nuno Pedro:99586:Ana Silva:1004:CSPorto:2021-03-19
+Nuno Pedro:99586:Carla Braga:1010:CSPorto:2021-03-19
+Nuno Pedro:99586:Ema Aguiar:1013:CSPorto:2021-03-19
