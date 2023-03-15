@@ -1,0 +1,5 @@
+mario~:12:200
+ola:12:200
+aa:18:125
+star wars:7:125
+amaro:8:125
