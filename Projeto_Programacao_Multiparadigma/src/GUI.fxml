@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<SplitPane fx:id="splitPane" dividerPositions="0.7157190635451505" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.14-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ViewController">
+  <items>
+      <GridPane fx:id="gridPane">
+         <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+         </rowConstraints>
+         <children>
+            <SubScene fx:id="subScene1" height="400.0" width="426.0">
+              <root>
+                <Region />
+              </root>
+            </SubScene>
+         </children>
+      </GridPane>
+      <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0">
+         <children>
+            <Button fx:id="scaleDown" mnemonicParsing="false" onMouseClicked="#applyScaleDown" prefHeight="25.0" prefWidth="100.0" text="Scale Down" translateY="30.0">
+               <VBox.margin>
+                  <Insets top="150.0" />
+               </VBox.margin></Button>
+            <Button fx:id="load" layoutY="200.0" mnemonicParsing="false" onMouseClicked="#loadButton" prefHeight="25.0" prefWidth="100.0" text="Load" textAlignment="CENTER" translateY="-140.0">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin></Button>
+            <Button fx:id="save" mnemonicParsing="false" onMouseClicked="#saveButton" prefHeight="25.0" prefWidth="100.0" text="Save" translateY="-130.0" />
+            <Button fx:id="scaleUp" mnemonicParsing="false" onMouseClicked="#applyScaleUp" prefHeight="25.0" prefWidth="100.0" text="Scale Up" translateY="-80.0" />
+            <Button fx:id="sepiaFilter" mnemonicParsing="false" onMouseClicked="#applySepiaFilter" prefHeight="25.0" prefWidth="100.0" text="Sepia Filter" />
+            <Button fx:id="greenRemove" mnemonicParsing="false" onMouseClicked="#applyGreenRemove" prefHeight="25.0" prefWidth="100.0" text="Green Remove" translateY="10.0">
+               <VBox.margin>
+                  <Insets />
+               </VBox.margin></Button>
+         </children>
+      </VBox>
+  </items>
+</SplitPane>
