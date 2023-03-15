@@ -1,0 +1,14 @@
+1001:Joao Silva:86:Lisboa:912345678:0
+1002:Pedro Santos:65:Santarem:962345678:0
+1003:Joaquim Pedroso:91:Porto:966645678:0
+1004:Ana Silva:54:Porto:917745678:0
+1005:Joana Dias:66:Lisboa:931245678:0
+1006:Maria Leite:86:Braga:913345679:0
+1007:Maria Sousa:22:Braganca:918765432:0
+1008:Mariana Andrade:1:Setubal:969875678:0
+1009:Antonio Passos:76:Setubal:912456789:0
+1010:Carla Braga:88:Porto:960987456:0
+1011:Duarte Oliveira:76:Leiria:933333123:0
+1012:Carlos Ferreira:54:Santarem:910987098:0
+1013:Ema Aguiar:44:Porto:934523123:0
+1014:Francisco Pedro:38:Lisboa:960001112:0
